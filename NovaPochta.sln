@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1D16AF46-7701-4991-8EC2-1A96302AE1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NovaPochta.API", "src\NovaPochta.API\NovaPochta.API.csproj", "{7E764E2C-AE25-43C0-A477-C2155417D352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7E764E2C-AE25-43C0-A477-C2155417D352} = {1D16AF46-7701-4991-8EC2-1A96302AE1BD}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E764E2C-AE25-43C0-A477-C2155417D352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E764E2C-AE25-43C0-A477-C2155417D352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E764E2C-AE25-43C0-A477-C2155417D352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E764E2C-AE25-43C0-A477-C2155417D352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
